@@ -1,0 +1,104 @@
+/*
+my stylesheet
+*/
+
+
+
+#adham .fixed-top{
+    left: auto;
+}
+
+
+.job{
+    background-color: #fff;
+}
+
+.job:hover{
+    background-color: #1c4c9a;
+    color: white;
+}
+#adham a:hover
+{
+    background-color: #1c4c9a;
+}
+
+.americana{
+    float: left;
+    margin-left: 10px;
+    padding: 10px 20px ;
+    border: 2px solid #09c; 
+    
+}
+.americana p{
+   color: blue;
+    margin-left: 10px;
+    font-size: 18;
+}
+.americana h4{
+    float: left;
+    margin-left: 15px;
+    font-size: 18;
+    color:#CC0000;
+}
+.americana h5{
+    float: left;
+    margin-left: 3px;
+    font-size: 18;
+    color:#003DE3;
+}
+
+.te {
+    float: left;
+    margin-left: 10px;
+    padding: 10px 20px ;
+    border: 2px solid #09c; 
+    
+}
+.te  p{
+   color: blue;
+    margin-left: 10px;
+    font-size: 18;
+}
+.te  h4{
+    float: left;
+    margin-left: 15px;
+    font-size: 18;
+    color:#CC0000;
+}
+.te  h5{
+    margin-left: 3px;
+    font-size: 18;
+    color:#003DE3;
+}
+
+
+
+/*  abo 7oda */
+
+.bg-dropdown{
+    background-color: #1c4c9a;
+    color: #fff !important;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 0px 5px ;
+}
+
+
+.contact-page h1 {
+    font-size: 52px;
+}
+
+
+
+.clr{
+    clear: both;
+}
+
+
+.arb{
+    width: 18rem; direction: rtl; float: right; text-align: right; margin: 10px; padding: 10px;
+}
+
+.eng{
+    width: 18rem;  margin: 10px; padding: 10px;
+}
